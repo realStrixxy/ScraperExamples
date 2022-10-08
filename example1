@@ -1,3 +1,8 @@
 ~SCRAPER__INITIALIZE~
 ~var MyNewVariable Hello World
 ~print ~MyNewVariable
+
+# I will explain what each line does:
+# Line 1: Initializes the Scraper program
+# Line 2: Creates a new variable and sets its value to the string "Hello World"
+# Line 3: Prints the value of the variable created on Line 2
