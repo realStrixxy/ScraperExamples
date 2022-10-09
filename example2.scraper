@@ -1,0 +1,12 @@
+~SCRAPER__INITIALIZE~
+~var Variable Hello World
+~print ~Variable
+~var Variable ~* 10 10
+~print ~Variable
+
+# I will explain what this file does line-by-line
+# Line 1: Initializes Scraper
+# Line 2: Declares the variable "Variable" & gives it the string value of "Hello World"
+# Line 3: Prints the value of "Variable"
+# Line 4: Re-Declares the variable "Variable" & gives it the float value of 10 * 10 (a.k.a. 100.0)
+# Line 5: Prints the value of "Variable"
