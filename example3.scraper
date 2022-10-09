@@ -1,0 +1,10 @@
+~SCRAPER__INITIALIZE~
+~input Input this > 
+~var input ~~input
+~print ~input
+
+# I will explain what each line does:
+# Line 1: Initializes Scraper
+# Line 2: Takes the users input, with the name of the input method being "Input This > "
+# Line 3: sets the variable "input" to whatever the user inputs
+# Line 4: prints the value of the variable "input"
